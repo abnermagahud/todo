@@ -37,6 +37,7 @@ Run:
 ```bash
 $ hasura console
 ```
+and it will redirect you to a browser.
 
 ## Install Dependencies
 
