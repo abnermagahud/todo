@@ -35,7 +35,7 @@ hasura migrate apply
 ```
 to 
 
-Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
+Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & installed in your system.
 
 Go to `/frontend` directory 
 ```bash
