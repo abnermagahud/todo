@@ -16,10 +16,6 @@ And run:
 $ docker-compose up -d --build
 ```
 
-It will install the [`Hasura Cloud`](https://hasura.io/) and you can access the Hasura in your system.
-
-URL: http://localhost:8080/
-
 ## Database Migration
 
 Make sure you have [`Hasura CLI`](https://hasura.io/docs/latest/graphql/core/hasura-cli/install-hasura-cli.html#install-hasura-cli) installed .
@@ -34,15 +30,25 @@ $ hasura migrate apply
 $ hasura metadata apply
 ```
 
+## Accessing Hasura Console in Web
+
+Run: 
+
+```bash
+$ hasura console
+```
+
 ## Install Dependencies
 
 Make sure you already have [`nodejs`](https://nodejs.org/en/) installed in your system.
 
-Go to `/frontend` directory 
+Go to `/frontend/todo-app` directory 
+
 ```bash
-$ cd frontend
+$ cd frontend/todo-app
 ```
 And run
+
 ```bash
 $ npm start # or yarn start
 ```
