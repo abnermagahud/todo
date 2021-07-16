@@ -31,6 +31,7 @@ and run:
 
 ```bash
 $ hasura migrate apply 
+$ hasura metadata apply
 ```
 
 ## Install Dependencies
