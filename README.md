@@ -18,7 +18,7 @@ $ docker-compose up -d --build
 
 ## Database Migration
 
-Make sure you have [`Hasura CLI`](https://hasura.io/docs/latest/graphql/core/hasura-cli/install-hasura-cli.html#install-hasura-cli) installed .
+Make sure you have [`Hasura CLI`](https://hasura.io/docs/latest/graphql/core/hasura-cli/install-hasura-cli.html#install-hasura-cli) installed globally.
  Go to `/hasura` directory:
 ```bash
 $ cd hasura
