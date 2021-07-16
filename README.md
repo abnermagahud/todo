@@ -8,7 +8,7 @@ First, open a terminal and clone this repository.
 ```bash
 $ git clone https://github.com/abnermagahud/todo.git
 ```
-Then, go to `/backend`directory: 
+Then, go to `/todo/backend`directory: 
  ```bash
 cd backend
 ```
