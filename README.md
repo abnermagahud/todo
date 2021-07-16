@@ -33,9 +33,10 @@ and run:
 ```bash
 hasura migrate apply 
 ```
-to 
 
-Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & installed in your system.
+## Install Dependencies
+
+Make sure you already have [`nodejs`](https://nodejs.org/en/) installed in your system.
 
 Go to `/frontend` directory 
 ```bash
