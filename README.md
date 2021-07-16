@@ -10,7 +10,7 @@ $ git clone https://github.com/abnermagahud/todo.git
 ```
 Then, go to `/todo/backend`directory: 
  ```bash
-cd backend
+cd todo/backend
 ```
 And run: 
 ```bash
